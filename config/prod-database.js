@@ -1,5 +1,5 @@
 module.exports = {
 
-    mongoDbUrl: process.env.MONGO_DB_URI
+    mongoDbUrl: 'mongodb+srv://awe_srush:awe_srush@cms-yamnn.mongodb.net/test?retryWrites=true'
 
 };
