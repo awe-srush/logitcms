@@ -1,0 +1,9 @@
+console.log(__dirname) - name of directory
+console.log(__filename) - current file
+
+require('path');
+console.log(path.basename(__filename));
+displays just the filename
+
+req.params.id - passing params in URL and consuming in application
+
